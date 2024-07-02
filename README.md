@@ -6,7 +6,7 @@ A well-organised project structure is essential for the success of any Django ap
 
 # Project Name
 
-A Django project with the app name "App". (You can give any name to your project and app. I gave the name 'backend' for reference sake here)
+A Django project 'backend' with the app name "users".
 
 ## Why Project Structure Matters
 
